@@ -1,0 +1,19 @@
+16/12/22
+En arrivant à la séance, nous avons commencé par réfléchir au système de lancer de balles de nerf. Nous avons d’abord commencé à penser à un système ressemblant à celui du patator, à savoir un réservoir de gaz dans lequel on déclencherait une explosion avec un arc électrique. Ensuite M. Masson nous a donné un pistolet nerf modifié de façon à ce que les balles soient tirées automatiquement avec un servomoteur.
+
+Othmane :
+M. Masson nous a fourni un cadre métallique muni de 4 roues (toutes les 4 motorisées).
+
+
+
+M. Masson nous a fourni un cadre métallique muni de 4 roues (toutes les 4 motorisées).
+
+
+
+
+
+Ainsi j’ai pu souder les masses et alimentations des deux roues de droites ensemble (idem pour celles de gauche) ainsi on se retrouve avec un véhicule équivalent à 2 moteurs, plus simple à gérer avec Arduino … 
+Il a fallu ensuite resserrer les moteurs qui n’étaient pas bien fixés, mais je n’ai pas eu le temps de trouver la bonne clé.
+
+Yanis : 
+De mon côté, j’ai commencé à développer une application sur AppInventor, qui nous permettrait de commander la voiture. J’ai récupéré les programmes de nos TP précédents, que j’ai adapté à notre cas, en rajoutant le module Bluetooth. Le principe est simple. Une fois connecté à l’Arduino sur l’application, si nous appuyons par exemple sur « avant », cela envoie un texte à l’Arduino « avant ». Dans le code, la réception de ce texte active les roues toutes dans le même sens et à la même vitesse. Quand le bouton est relâché, la voiture s’arrête. C’est le même principe pour aller a gauche, à droite, et reculer.
