@@ -1,0 +1,8 @@
+13/01
+Ce cours-ci, nous avons plutôt stagné. Un problème sur la voiture nous empêchait de faire rouler les 4 roues en même temps, et nous avons passé 2h, avec l’aide d’un 
+professeur, pour régler le problème de branchements. 
+Nous avons appris a la fin du cours que nos problèmes étaient dus a la carte arduino qui avait cramé… 
+
+Pendant ce temps nous avons aussi démonté le pistolet nerf modifié fourni par notre proffeseur en debut de projet et eavons essayé de comprendre son mécanisme : un 
+servomoteur à été acchroché au piston qui pousse les munitions dans le conduit avec les deux roues qui tournent, pour pouvoir tirer les balles quand on en a envie 
+par simple activation du servomoteur.
