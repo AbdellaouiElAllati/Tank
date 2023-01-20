@@ -1,0 +1,23 @@
+
+Tout d’abord il a fallu bien fixer les fils (qui dépassaient un peu partout) à la plaque en métal avec de la patte à fixe .
+
+
+
+
+
+
+
+
+
+
+
+On a ensuite bien travaillé sur le programme ensemble afin de réussir à envoyer des données depuis une application mobile (créé à la séance 2 par Yanis ) vers l’arduino grâce au bluetooth . Nous avons d’ailleurs bien réussi cette étape , l’une des plus importantes du projet .
+ 
+
+
+
+
+Enfin on devait se procurer un support de 4 piles pour alimenter notre tank de manière indépendante (sans branchement sur secteur  ou ordi ) . Mais manque de chance , il n’y en avait plus . 
+Je me suis alors occupé de souder les masses et alim 5v de deux supports à 4 piles puis je les ai fixé ensemble avec la pâte à fixe .
+
+Voilà le résultat !
